@@ -40,6 +40,6 @@
 * Course: N/A
 * Teaching Assistang: N/A
 
-## Fairness and Privacy by [Richard Zemel](https://vectorinstitute.ai/team/richard-zemel/) and [Toniann Piassi](https://www.cs.toronto.edu/~toni/)
+## Fairness and Privacy by [Richard Zemel](https://vectorinstitute.ai/team/richard-zemel/) and [Toniann Pitassi](https://www.cs.toronto.edu/~toni/)
 * [Course](https://github.com/ecreager/ammi-fairness-and-privacy/tree/master/slides)
 * Teaching Assistants: Elliot creagrer and David Madras.
