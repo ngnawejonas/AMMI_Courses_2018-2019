@@ -1,4 +1,4 @@
-## Courses Materials at the [African Masters of Machine Intelligence](https://aimsammi.org)
+## Courses Materials at the [African Masters of Machine Intelligence](https://aimsammi.org) Kigali, Rwanda 2018/2019
 
 ## Foundations of Machine Learning by [Marc Deisenroth](https://deisenroth.cc/)
 * [Lectures and practicals](https://deisenroth.cc/teaching/2018-19/foundations-of-machine-learning/)
